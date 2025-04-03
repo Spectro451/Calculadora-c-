@@ -16,18 +16,20 @@ Public Class Form1
                 ChkMultiplicacion.Enabled = True
                 ChkDivision.Enabled = True
             Else
+                'sino los desactiva
                 ChkSuma.Enabled = False
                 ChkResta.Enabled = False
                 ChkMultiplicacion.Enabled = False
                 ChkDivision.Enabled = False
             End If
         Else
+            'mantiene desactivado el btnlimpiar sino se cumple la condicion
             BtnLimpiar.Enabled = False
 
         End If
     End Sub
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles BtmCalcular.Click
-        'da un mensaje lindo en un boton inutil
+        'da un mensaje lindo en un boton inutil y reproduce un audio desde los recursos
         My.Computer.Audio.Play(My.Resources.buenas, AudioPlayMode.Background)
         MsgBox("Ya me vengo bb")
 
@@ -41,6 +43,7 @@ Public Class Form1
     End Sub
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        'inicia validar y reproduce un sonido al inicar el programa
         validar()
         My.Computer.Audio.Play(My.Resources.hola, AudioPlayMode.Background)
     End Sub
@@ -58,7 +61,7 @@ Public Class Form1
     End Sub
 
     Private Sub CheckBox1_CheckedChanged(sender As Object, e As EventArgs) Handles ChkSuma.CheckedChanged
-        'check suma y desactivar cuando eligo uno
+        'si chk suma esa activado, desactiva los otros y cambia lbloperador al requerido
 
 
         If ChkSuma.Checked Then
@@ -123,6 +126,7 @@ Public Class Form1
     End Sub
 
     Private Sub TxtDato2_TextChanged(sender As Object, e As EventArgs) Handles TxtDato2.TextChanged
+        'llama validar si existe un cambio en los txt
         validar()
     End Sub
 
@@ -154,7 +158,13 @@ Public Class Form1
         End If
     End Sub
 
+    Private Sub Label2_Click(sender As Object, e As EventArgs) Handles Label2.Click
+        'easter egg
+        My.Computer.Audio.Play(My.Resources.pipe, AudioPlayMode.Background)
+    End Sub
+
     Private Sub TxtDato1_KeyPress(sender As Object, e As KeyPressEventArgs) Handles TxtDato1.KeyPress
+        'si lo ingresado en l txt1 no es numerico reproduce un audio de error y envia un mensaje
         If Not Char.IsControl(e.KeyChar) AndAlso Not Char.IsDigit(e.KeyChar) Then
             My.Computer.Audio.Play(My.Resources.classic_hurt, AudioPlayMode.Background)
             MessageBox.Show("Porfavor ingrese solo numeros bb", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning)
@@ -162,6 +172,7 @@ Public Class Form1
         End If
     End Sub
     Private Sub TxtDato2_KeyPress(sender As Object, e As KeyPressEventArgs) Handles TxtDato2.KeyPress
+        'si lo ingresado en l txt2 no es numerico reproduce un audio de error y envia un mensaje
         If Not Char.IsControl(e.KeyChar) AndAlso Not Char.IsDigit(e.KeyChar) Then
             My.Computer.Audio.Play(My.Resources.classic_hurt, AudioPlayMode.Background)
             MessageBox.Show("Porfavor ingrese solo numeros bb", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning)
