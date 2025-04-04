@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\basty\\OneDrive\\Escritorio\\Calculadora 6.0 resurrected\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92D1A5-9F94-400A-9C73-8A2345F074ED}|Calculadora\\Calculadora.vbproj|c:\\users\\basty\\onedrive\\escritorio\\calculadora 6.0 resurrected\\calculadora\\calculadora 3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9A92D1A5-9F94-400A-9C73-8A2345F074ED}|Calculadora\\Calculadora.vbproj|solutionrelative:calculadora\\calculadora 3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92D1A5-9F94-400A-9C73-8A2345F074ED}|Calculadora\\Calculadora.vbproj|C:\\Users\\basty\\OneDrive\\Escritorio\\Calculadora 6.0 resurrected\\calculadora\\calculadora 3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9A92D1A5-9F94-400A-9C73-8A2345F074ED}|Calculadora\\Calculadora.vbproj|solutionrelative:calculadora\\calculadora 3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92D1A5-9F94-400A-9C73-8A2345F074ED}|Calculadora\\Calculadora.vbproj|C:\\Users\\basty\\OneDrive\\Escritorio\\Calculadora 6.0 resurrected\\calculadora\\menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9A92D1A5-9F94-400A-9C73-8A2345F074ED}|Calculadora\\Calculadora.vbproj|solutionrelative:calculadora\\menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92D1A5-9F94-400A-9C73-8A2345F074ED}|Calculadora\\Calculadora.vbproj|C:\\Users\\basty\\OneDrive\\Escritorio\\Calculadora 6.0 resurrected\\calculadora\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9A92D1A5-9F94-400A-9C73-8A2345F074ED}|Calculadora\\Calculadora.vbproj|solutionrelative:calculadora\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92D1A5-9F94-400A-9C73-8A2345F074ED}|Calculadora\\Calculadora.vbproj|C:\\Users\\basty\\OneDrive\\Escritorio\\Calculadora 6.0 resurrected\\calculadora\\menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9A92D1A5-9F94-400A-9C73-8A2345F074ED}|Calculadora\\Calculadora.vbproj|solutionrelative:calculadora\\menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A92D1A5-9F94-400A-9C73-8A2345F074ED}|Calculadora\\Calculadora.vbproj|C:\\Users\\basty\\OneDrive\\Escritorio\\Calculadora 6.0 resurrected\\calculadora\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9A92D1A5-9F94-400A-9C73-8A2345F074ED}|Calculadora\\Calculadora.vbproj|solutionrelative:calculadora\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculadora 3.vb",
+              "DocumentMoniker": "C:\\Users\\basty\\OneDrive\\Escritorio\\Calculadora 6.0 resurrected\\Calculadora\\Calculadora 3.vb",
+              "RelativeDocumentMoniker": "Calculadora\\Calculadora 3.vb",
+              "ToolTip": "C:\\Users\\basty\\OneDrive\\Escritorio\\Calculadora 6.0 resurrected\\Calculadora\\Calculadora 3.vb",
+              "RelativeToolTip": "Calculadora\\Calculadora 3.vb",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwBAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-02T12:45:09.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora 3.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\basty\\OneDrive\\Escritorio\\Calculadora 6.0 resurrected\\Calculadora\\Calculadora 3.vb",
+              "RelativeDocumentMoniker": "Calculadora\\Calculadora 3.vb",
+              "ToolTip": "C:\\Users\\basty\\OneDrive\\Escritorio\\Calculadora 6.0 resurrected\\Calculadora\\Calculadora 3.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Calculadora\\Calculadora 3.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-02T12:44:05.508Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.vb",
+              "DocumentMoniker": "C:\\Users\\basty\\OneDrive\\Escritorio\\Calculadora 6.0 resurrected\\Calculadora\\Menu.vb",
+              "RelativeDocumentMoniker": "Calculadora\\Menu.vb",
+              "ToolTip": "C:\\Users\\basty\\OneDrive\\Escritorio\\Calculadora 6.0 resurrected\\Calculadora\\Menu.vb",
+              "RelativeToolTip": "Calculadora\\Menu.vb",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAlwBAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-02T12:05:20.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\basty\\OneDrive\\Escritorio\\Calculadora 6.0 resurrected\\Calculadora\\Menu.vb",
+              "RelativeDocumentMoniker": "Calculadora\\Menu.vb",
+              "ToolTip": "C:\\Users\\basty\\OneDrive\\Escritorio\\Calculadora 6.0 resurrected\\Calculadora\\Menu.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Calculadora\\Menu.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-02T12:04:12.251Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\basty\\OneDrive\\Escritorio\\Calculadora 6.0 resurrected\\Calculadora\\Form1.vb",
+              "RelativeDocumentMoniker": "Calculadora\\Form1.vb",
+              "ToolTip": "C:\\Users\\basty\\OneDrive\\Escritorio\\Calculadora 6.0 resurrected\\Calculadora\\Form1.vb",
+              "RelativeToolTip": "Calculadora\\Form1.vb",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAmwC8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-26T20:10:58.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\basty\\OneDrive\\Escritorio\\Calculadora 6.0 resurrected\\Calculadora\\Form1.vb",
+              "RelativeDocumentMoniker": "Calculadora\\Form1.vb",
+              "ToolTip": "C:\\Users\\basty\\OneDrive\\Escritorio\\Calculadora 6.0 resurrected\\Calculadora\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Calculadora\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-26T20:10:58.242Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
